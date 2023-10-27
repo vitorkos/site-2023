@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Header } from "../components/Header";
 import { Task } from "../components/Task";
 import { VoidList } from "../components/VoidList";
-//import { withSSRAuth } from "../utils/withSSRAuth";
+import { withSSRAuth } from "../utils/withSSRAuth";
 import { useTask } from "@/hooks/useTask";
 
 export default function Home() {
@@ -73,3 +73,4 @@ export default function Home() {
     </>
   );
 }
+export const getServerSideProps = withSSRAuth();
