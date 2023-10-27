@@ -3,7 +3,7 @@ import { Header } from "../components/Header";
 import { Task } from "../components/Task";
 import { VoidList } from "../components/VoidList";
 //import { withSSRAuth } from "../utils/withSSRAuth";
-import { useTask } from "@/hooks/useTaks";
+import { useTask } from "@/hooks/useTask";
 
 export default function Home() {
   const {
