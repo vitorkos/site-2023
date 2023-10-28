@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using handson.Data;
+using Api.Data;
 
 #nullable disable
 
-namespace handson.Migrations
+namespace Api.Migrations
 {
     [DbContext(typeof(ApiDbContext))]
     [Migration("20231025200101_Initial")]

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace handson.Migrations
+namespace Api.Migrations
 {
     /// <inheritdoc />
     public partial class Initial : Migration
