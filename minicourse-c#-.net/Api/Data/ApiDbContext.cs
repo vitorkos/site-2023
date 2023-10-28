@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using handson.Models;
+using Api.Models;
 
 
-namespace handson.Data
+namespace Api.Data
 {
     public class ApiDbContext : DbContext{
 

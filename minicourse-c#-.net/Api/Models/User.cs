@@ -1,4 +1,4 @@
-namespace handson.Models
+namespace Api.Models
 {
     public class User
     {
