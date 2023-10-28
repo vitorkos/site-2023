@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C5pPYlYWR8UaRO0KynprzmlmfePstbkZV8oy3gODBqu6bKdEkfluCo9/JMdG202H92d7aW6lhFNpyv/UBexbVw==",
+  "dgSpecHash": "t7l1zNiYuIuUKYxd3Ah4IQxbY176Rz2Dvrhf6bhq/WeESUbPi7Wqq4KAPaM6BPY6/tzxpbQ3CrEYwWDO/AXsIQ==",
   "success": true,
   "projectFilePath": "/home/geedorah/Code/site-2023/minicourse-c#-.net/Api/Api.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "/home/geedorah/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.13/microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
     "/home/geedorah/.nuget/packages/microsoft.entityframeworkcore.design/7.0.13/microsoft.entityframeworkcore.design.7.0.13.nupkg.sha512",
     "/home/geedorah/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.13/microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
+    "/home/geedorah/.nuget/packages/microsoft.entityframeworkcore.sqlite/7.0.13/microsoft.entityframeworkcore.sqlite.7.0.13.nupkg.sha512",
+    "/home/geedorah/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/7.0.13/microsoft.entityframeworkcore.sqlite.core.7.0.13.nupkg.sha512",
     "/home/geedorah/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/geedorah/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/geedorah/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
